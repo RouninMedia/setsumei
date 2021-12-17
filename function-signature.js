@@ -1,6 +1,7 @@
-# Function Signature
+// FUNCTION SIGNATURE
 
-## Template:
+
+// Template:
 
 /**
  * [ Function Description ]
@@ -9,7 +10,9 @@
  * @returns {[ Return Type ]} [ Return Description ]
  */
 
-## Example:
+
+
+// Example:
 
 /**
  * Escapes JSON data to the QuasiJSON format.
