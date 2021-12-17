@@ -1,26 +1,16 @@
-/**
- * JSON Data.
- * @typedef {string} JSON
- */
-
-
-// FUNCTION SIGNATURE
+// DEFINE JSON SIGNATURE
 
 // Template:
 
 /**
- * [ Function Description ]
- * @function [ Function Name ]
- * @param {[ Parameter Type ]} [ Parameter Name ] - [ Parameter Description ]
- * @returns {[ Return Type ]} [ Return Description ]
+ * [ Definition Description ]
+ * @typedef {[ Data Type ]} [ Data Description ]
  */
 
 
 // Example:
 
 /**
- * Escapes JSON data to the QuasiJSON format.
- * @function convertJSONToQuasiJSON
- * @param {JSON} realJSON - any JSON data
- * @returns {string} the QuasiJSON escape corresponding to the JSON data input
+ * Define JSON
+ * @typedef {string} JSON
  */
