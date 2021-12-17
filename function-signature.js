@@ -1,6 +1,5 @@
 // FUNCTION SIGNATURE
 
-
 // Template:
 
 /**
@@ -9,7 +8,6 @@
  * @param {[ Parameter Type ]} [ Parameter Name ] - [ Parameter Description ]
  * @returns {[ Return Type ]} [ Return Description ]
  */
-
 
 
 // Example:
