@@ -1,6 +1,6 @@
-# Define JSON
+# Define JSON Signature
 
-## Signature Template:
+## Template of Define JSON Signature:
 
 ```
 /**
@@ -9,7 +9,7 @@
  */
 ```
 
-## JavaScript Example
+## JavaScript Example of Define JSON Signature
 
 ```
 /**
@@ -18,7 +18,7 @@
  */
 ```
 
-## TypeScript Example
+## TypeScript Example of Define JSON Signature
 
 ```
 /**
