@@ -9,7 +9,7 @@
  */
 ```
 
-## JavaScript Example of Define JSON Signature
+## JavaScript Example of Define JSON Signature:
 
 ```
 /**
@@ -18,7 +18,7 @@
  */
 ```
 
-## TypeScript Example of Define JSON Signature
+## TypeScript Example of Define JSON Signature:
 
 ```
 /**
