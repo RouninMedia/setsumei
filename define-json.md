@@ -1,6 +1,6 @@
 # Define JSON
 
-## Template:
+## Signature Template:
 
 ```
 /**
