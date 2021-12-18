@@ -11,7 +11,7 @@
  */
 ```
 
-## JavaScript Example of Function Signature
+## JavaScript Example of Function Signature:
 
 ```
 /**
@@ -22,7 +22,7 @@
  */
 ```
 
-## TypeScript Example of Function Signature
+## TypeScript Example of Function Signature:
 
 ```
 /**
